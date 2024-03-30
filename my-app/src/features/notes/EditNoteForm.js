@@ -171,7 +171,7 @@ const EditNoteForm = ({ note, users }) => {
           </div>
           <div className="form__divider">
             <p className="form__created">
-              Created:
+              Create:
               <br />
               {created}
             </p>
